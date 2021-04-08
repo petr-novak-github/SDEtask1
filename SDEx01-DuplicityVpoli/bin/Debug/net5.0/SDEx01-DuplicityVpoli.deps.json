@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SDEx01-DuplicityVpoli/1.0.0": {
+        "runtime": {
+          "SDEx01-DuplicityVpoli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDEx01-DuplicityVpoli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.exe
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.deps.json
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.runtimeconfig.json
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.runtimeconfig.dev.json
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.dll
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\ref\SDEx01-DuplicityVpoli.dll
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\bin\Debug\net5.0\SDEx01-DuplicityVpoli.pdb
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.csprojAssemblyReference.cache
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.AssemblyInfoInputs.cache
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.AssemblyInfo.cs
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.csproj.CoreCompileInputs.cache
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.dll
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\ref\SDEx01-DuplicityVpoli.dll
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.pdb
+C:\Users\petr8\source\repos\SDEx01-DuplicityVpoli\SDEx01-DuplicityVpoli\obj\Debug\net5.0\SDEx01-DuplicityVpoli.genruntimeconfig.cache
